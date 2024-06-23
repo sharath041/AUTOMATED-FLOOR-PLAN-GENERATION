@@ -1,0 +1,35 @@
+body{
+    margin-top: 200px; 
+    text-align: center;
+    background-color: rgb(7, 150, 226);
+}
+input{
+    padding-left:30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    font-size: 40px;
+}
+button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+button:hover{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+}
+h2{
+    font-size: 30px;
+    color: antiquewhite;
+    margin-left: 50px;
+}

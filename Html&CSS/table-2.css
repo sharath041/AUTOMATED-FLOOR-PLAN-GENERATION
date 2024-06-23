@@ -1,0 +1,15 @@
+table,tr,td,th{
+    border:solid 3px;
+    border-collapse: collapse;
+    font-size: 50px;
+    padding: 10px;
+}
+table{
+    background-color: aquamarine;
+    margin:auto;
+}
+tr:hover{
+    background-color: beige;
+    color: rgb(9, 9, 9);
+    font: italic;
+}

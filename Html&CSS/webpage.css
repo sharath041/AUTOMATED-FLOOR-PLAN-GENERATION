@@ -1,0 +1,37 @@
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    background-color: rgb(247, 154, 82);
+    padding: 10px;
+
+}
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzWme55EPsxB8DwLLGpmNlrlvXiO2VTg8qPg&usqp=CAU);
+    background-size: cover;
+}
+.row{
+    display: flex;
+    align-content: center;
+    margin-top: 300px;
+    margin-left: 30px;
+    justify-content: space-between;
+    padding:5px;
+    background-color: rgb(247, 247, 132);
+}
+.fig{
+    width: 300px;
+    background-color: antiquewhite;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding: 10px;
+    justify-items: center;
+}
+img{
+    margin-left:  17px;
+
+}
+button{
+    display: flex;
+    padding: 10px;
+    margin-left: 100px;
+}
